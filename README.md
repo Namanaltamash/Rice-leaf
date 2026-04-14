@@ -1,0 +1,1 @@
+This project focuses on detecting and classifying rice leaf diseases using Artificial Intelligence (AI) and Machine Learning (ML) techniques. It helps farmers and agricultural experts identify plant diseases early and take preventive actions to improve crop yield.
